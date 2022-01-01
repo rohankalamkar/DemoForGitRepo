@@ -9,6 +9,8 @@ public class Test {
 		System.out.println("Adding data in git hub for pulling..");
 		System.out.println("Adding data in git hub for pulling for second time..");
 		
+		System.out.println("Stashing add");
+		
 		String abc = "hi";
 		
 	}
