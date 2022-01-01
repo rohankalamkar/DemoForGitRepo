@@ -4,4 +4,10 @@
   <artifactId>07-ForGit_Demo_Project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
+  <dependencies>
+  
+
+  
+  
+  </dependencies>
 </project>
