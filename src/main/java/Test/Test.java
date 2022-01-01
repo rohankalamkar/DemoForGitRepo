@@ -14,5 +14,16 @@ public class Test {
 		String abc = "hi";
 		
 	}
+	
+	public void m1() {
+		
+		// in test
+
+
+		
+		System.out.println("Some Changes in stash");
+
+
+	}
 
 }
