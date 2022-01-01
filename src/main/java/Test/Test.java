@@ -7,6 +7,8 @@ public class Test {
 		System.out.println("This is an Main Demo Project for Git...!!");
 		System.out.println("We have many Offers...");
 		
+		String abc = "hi";
+		
 	}
 
 }
